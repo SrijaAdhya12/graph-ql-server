@@ -78,7 +78,7 @@
 
 - See [LICENSE]
 
-**Pritam, 2024**
+**Srija, 2024**
 
 ![line]
 
