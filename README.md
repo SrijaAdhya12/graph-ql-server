@@ -67,8 +67,8 @@
 ## Best Contributors
 
 <div align="center">
-    <a  href="https://github.com/warmachine028/github-super-starter-kit/graphs/contributors">
-        <img src="https://contrib.rocks/image?repo=warmachine028/github-super-starter-kit" alt="contributors" />
+    <a  href="https://github.com/SrijaAdhya12/github-super-starter-kit/graphs/contributors">
+        <img src="https://contrib.rocks/image?repo=SrijaAdhya12/graph-ql-server" alt="contributors" />
     </a>
 </div>
 
@@ -78,7 +78,7 @@
 
 - See [LICENSE]
 
-**Pritam, 2024**
+**Srija, 2024**
 
 ![line]
 
